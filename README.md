@@ -4,9 +4,12 @@
 
 *A Lightweight Web-Based Intelligent Learning System with RAG, MCP, and DH*
 
-**📄 Paper **: Under Review
+**📄 Paper**: Under Review
+
 **🎥 Demo Video**: [Google Drive](https://drive.google.com/file/d/1D_A7sqbZ1fhJclL1gU0vTYw1V8XS5pYb/view)
+
 **🌐 Project Page:** *(coming soon)*
+
 **💻 Code Release:** 
 
 > The RISE system is fully implemented and demonstrated in the submitted video.
@@ -86,6 +89,7 @@ The two layers form a **closed-loop learning workflow**, enabling continuous ada
 ## 🎬 Demo Video
 
 👉 **[Watch the full demonstration](https://drive.google.com/file/d/1D_A7sqbZ1fhJclL1gU0vTYw1V8XS5pYb/view)**
+
 The video includes:
 
 * Immersive classroom tour
@@ -136,8 +140,9 @@ RISE adheres to **ACM’s policy on research involving human participants**.
 
 ## 🤝 Acknowledgments
 
-RISE is developed by the xxx University.
-Special thanks to student contributors and participating schools.
+This project is developed by members of our research lab.  
+All work represents the effort of the authors and contributors only.
 
----
+The system and its materials do not represent the views, policies, or official positions of any institution.  
+No institutional endorsement is implied.
 
