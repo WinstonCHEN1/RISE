@@ -4,11 +4,9 @@
 
 *A Lightweight Web-Based Intelligent Learning System with RAG, MCP, and DH*
 
-**📄 Paper**: Under Review
+**📄 Paper**: [RISE: A Retrieval-Augmented Generation Enhanced Immersive System for Education](https://dl.acm.org/doi/10.1145/3774905.3793107)
 
 **🎥 Demo Video**: [Google Drive](https://drive.google.com/file/d/1D_A7sqbZ1fhJclL1gU0vTYw1V8XS5pYb/view)
-
-**🌐 Project Page:** *(coming soon)*
 
 **💻 Code Release:** 
 
@@ -118,12 +116,6 @@ The full implementation (frontend + backend + data pipeline) will be released so
 ✔ Demo video released
 ✔ Open-source release scheduled
 ✖ Repository undergoing cleanup & IP review
-
----
-
-## 🚀 Quick Start (coming soon)
-
-TBA
 
 ---
 
