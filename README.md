@@ -146,3 +146,25 @@ All work represents the effort of the authors and contributors only.
 The system and its materials do not represent the views, policies, or official positions of any institution.  
 No institutional endorsement is implied.
 
+---
+
+## 📖 Cite
+```
+@inproceedings{10.1145/3774905.3793107,
+author = {Chen, Guo and Tang, Haowei and Wei, Yan and Wang, Yuming and Zhang, Haoyang and Hou, Yikang and Zheng, Maolin and Huang, Junjie},
+title = {Rise: A Retrieval-Augmented Generation Enhanced Immersive System for Education},
+year = {2026},
+isbn = {9798400723087},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3774905.3793107},
+doi = {10.1145/3774905.3793107},
+booktitle = {Companion Proceedings of the ACM Web Conference 2026},
+pages = {85–88},
+numpages = {4},
+keywords = {smart education, retrieval-augmented generation, model context protocol, digital human},
+location = {United Arab Emirates},
+series = {WWW Companion '26}
+}
+```
+
